@@ -7,7 +7,7 @@
 Angular it’s a framework that provides various tools to develop web-sites. In contrast of React, where React is a library, Angular has everything you need, for example Routing, state management etc. Primarily Angular oriented to developing SPA. One of the peculiarity of Angular is use of TypeScript as a programming language.
  </div>
 </details>
- 
+ <hr>
 <details>
 <summary>What is different between AngularJS and Angular?</summary>
 <div>
@@ -19,7 +19,20 @@ Though many systems still support AngularJS, there are no longer updates or impr
   
 <details>
 <summary>MVC?</summary>
-  <div>
+<div>
+<br>
+MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. 
+The three parts of the MVC software-design pattern can be described as follows:
+   <ul>
+    <li>Model: Manages data and business logic.</li>
+  <li>View: Handles layout and display.</li>
+    <li>Controller: Routes commands to the model and view parts.</li></ul>
+  </div>
+ </details>
+ 
+ <details>
+<summary>MVC?</summary>
+<div>
 <br>
 MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. 
 The three parts of the MVC software-design pattern can be described as follows:
