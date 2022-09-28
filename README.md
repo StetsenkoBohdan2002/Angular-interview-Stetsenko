@@ -1,1 +1,1 @@
-# Angular-interview-Stetsenko
+# Angular-interview Bohdan Stetsenko
