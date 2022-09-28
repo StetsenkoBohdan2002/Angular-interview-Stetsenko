@@ -6,12 +6,17 @@
 <br>
 Angular it’s a framework that provides various tools to develop web-sites. In contrast of React, where React is a library, Angular has everything you need, for example Routing, state management etc. Primarily Angular oriented to developing SPA. One of the peculiarity of Angular is use of TypeScript as a programming language.
  </div>
+</details>
+ 
 <details>
 <summary>What is different between AngularJS and Angular?</summary>
 <div>
 <br>
 Though many systems still support AngularJS, there are no longer updates or improvements made to the system. Angular 2 is the newer version of AngularJS, and since its release, there have been several improvements and newer versions of the framework. These are some of the primary differences between AngularJS and Angular 2. AngularJS and Angular 2 are both frameworks for developing websites, they use different coding languages. AngularJS uses JavaScript, a text-based coding language used to make interactive elements. Angular 2 uses TypeScript, a subset of JavaScript created by Microsoft that incorporates static type definitions.
-  </div>
+  </div> 
+</details>
+  
+  
 <details>
 <summary>MVC?</summary>
   <div>
@@ -22,3 +27,4 @@ The three parts of the MVC software-design pattern can be described as follows:
   View: Handles layout and display.
   Controller: Routes commands to the model and view parts.
   </div>
+ </details>
