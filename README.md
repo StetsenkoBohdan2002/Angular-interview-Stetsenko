@@ -23,8 +23,9 @@ Though many systems still support AngularJS, there are no longer updates or impr
 <br>
 MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. 
 The three parts of the MVC software-design pattern can be described as follows:
-  Model: Manages data and business logic.
-  View: Handles layout and display.
-  Controller: Routes commands to the model and view parts.
+   <ul>
+    <li>Model: Manages data and business logic.</li>
+  <li>View: Handles layout and display.</li>
+    <li>Controller: Routes commands to the model and view parts.</li></ul>
   </div>
  </details>
